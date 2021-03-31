@@ -1,4 +1,5 @@
-﻿using ElevenNoteMvc.Model;
+﻿using ElevenNote.WebMVC.Models;
+using ElevenNoteMvc.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -26,7 +27,17 @@ namespace ElevenNote.WebMVC.Controllers
             return View();
         }
 
+        //Add code here vvvv
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Create(NoteCreate model)
+        {
+            if (ModelState.IsValid)
+            {
 
+            }
+            return View(model);
+        }
 
     }
 }

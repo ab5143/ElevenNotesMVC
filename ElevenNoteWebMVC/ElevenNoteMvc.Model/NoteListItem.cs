@@ -15,6 +15,5 @@ namespace ElevenNoteMvc.Model
         [Display(Name="Created")]
         public DateTimeOffset CreatedUtc { get; set; }
 
-
     }
 }

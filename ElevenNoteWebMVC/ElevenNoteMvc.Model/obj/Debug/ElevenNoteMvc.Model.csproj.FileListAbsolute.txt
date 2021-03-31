@@ -1,0 +1,16 @@
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Model\bin\Debug\ElevenNoteMvc.Model.dll
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Model\bin\Debug\ElevenNoteMvc.Model.pdb
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Model\obj\Debug\ElevenNoteMvc.Model.csprojAssemblyReference.cache
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Model\obj\Debug\ElevenNoteMvc.Model.csproj.CoreCompileInputs.cache
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Model\obj\Debug\ElevenNoteMvc.Model.dll
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Model\obj\Debug\ElevenNoteMvc.Model.pdb
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Model\bin\Debug\ElevenNoteMvc.Model.dll.config
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Model\bin\Debug\EntityFramework.dll
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Model\bin\Debug\EntityFramework.xml
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Model\obj\Debug\ElevenNoteMvc.Model.csproj.CopyComplete

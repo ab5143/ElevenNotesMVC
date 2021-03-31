@@ -1,0 +1,16 @@
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Services\bin\Debug\ElevenNoteMvc.Services.dll
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Services\bin\Debug\ElevenNoteMvc.Services.pdb
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Services\obj\Debug\ElevenNoteMvc.Services.csprojAssemblyReference.cache
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Services\obj\Debug\ElevenNoteMvc.Services.csproj.CoreCompileInputs.cache
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Services\obj\Debug\ElevenNoteMvc.Services.dll
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Services\obj\Debug\ElevenNoteMvc.Services.pdb
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Services\bin\Debug\ElevenNoteMvc.Services.dll.config
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Services\bin\Debug\EntityFramework.dll
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Services\bin\Debug\EntityFramework.xml
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Services\obj\Debug\ElevenNoteMvc.Services.csproj.CopyComplete

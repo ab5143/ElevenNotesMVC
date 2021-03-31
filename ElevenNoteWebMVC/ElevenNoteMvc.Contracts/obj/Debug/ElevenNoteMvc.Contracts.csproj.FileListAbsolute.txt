@@ -1,0 +1,16 @@
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Contracts\bin\Debug\ElevenNoteMvc.Contracts.dll
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Contracts\bin\Debug\ElevenNoteMvc.Contracts.pdb
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Contracts\obj\Debug\ElevenNoteMvc.Contracts.csprojAssemblyReference.cache
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Contracts\obj\Debug\ElevenNoteMvc.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Contracts\obj\Debug\ElevenNoteMvc.Contracts.dll
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Contracts\obj\Debug\ElevenNoteMvc.Contracts.pdb
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Contracts\bin\Debug\ElevenNoteMvc.Contracts.dll.config
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Contracts\bin\Debug\EntityFramework.dll
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Contracts\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Contracts\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Contracts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Contracts\bin\Debug\EntityFramework.xml
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Contracts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Contracts\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Contracts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Contracts\obj\Debug\ElevenNoteMvc.Contracts.csproj.CopyComplete

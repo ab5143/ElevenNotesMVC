@@ -61,6 +61,7 @@ namespace ElevenNoteMvc.Data
         public IdentityUserRoleConfiguration()
         {
             HasKey(iur => iur.UserId);
+            ///test
         }
 
 

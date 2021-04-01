@@ -14,3 +14,9 @@ C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNot
 C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Services\obj\Debug\ElevenNoteMvc.Services.csproj.CopyComplete
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Services\bin\Debug\ElevenNoteMvc.Data.dll
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Services\bin\Debug\ElevenNoteMvc.Model.dll
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Services\bin\Debug\ElevenNoteMvc.Data.pdb
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Services\bin\Debug\ElevenNoteMvc.Data.dll.config
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Services\bin\Debug\ElevenNoteMvc.Model.pdb
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\RedBadge\ElevenNoteWebMVC\ElevenNoteWebMVC\ElevenNoteMvc.Services\bin\Debug\ElevenNoteMvc.Model.dll.config
